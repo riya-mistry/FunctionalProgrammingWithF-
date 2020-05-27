@@ -6,6 +6,17 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Include="Arrays.fs" />
+    <Compile Include="Lists.fs" />
+    <Compile Include="PipelinesAndCompositions.fs" />
+    <Compile Include="StructToTuple.fs" />
+    <Compile Include="Tuples.fs" />
+    <Compile Include="StringManipulation.fs" />
+    <Compile Include="Booleans.fs" />
+    <Compile Include="IntergerAndNumbers.fs" />
+    <Compile Include="Immutability.fs" />
+    <Compile Include="BasicFunctions.fs" />
+    <Compile Include="Greetings.fs" />
     <Compile Include="HelloWorldNTimes.fs" />
     <Compile Include="Program.fs" />
   </ItemGroup>
